@@ -39,5 +39,7 @@ next-env.d.ts
 
 # local scratch/temp artifacts
 nul
+tmpclaude-*-cwd
 tmpclaude-*-cwd/
+**/tmpclaude-*-cwd
 **/tmpclaude-*-cwd/
